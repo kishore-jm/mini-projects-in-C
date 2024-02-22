@@ -133,7 +133,6 @@ int main()
 		 fo();
 		 c=c-2;}
 		
-		
 		printf("Enter your answer: ");
 		scanf("%d",&a4);
 		if (a4==4)
@@ -212,7 +211,6 @@ int main()
 		 te();		 
 		 c=c-2;}
 		
-		
 		printf("Enter your answer: ");
 		scanf("%d",&a10);
 		if (a10==1)
@@ -230,12 +228,6 @@ int main()
 		 printf("You are great!\n");
 		else 
 		 printf("You scored %d, so Try-Again!\n",c);
-		 
-		 
 		return 0;
-		
-		
-		
-		
-	}
+}
 
